@@ -1,6 +1,6 @@
 # BebaApp Frontend
 
-Welcome to the frontend repository of our transportation app project. This repository contains the codebase for the mobile app built using React Native.
+Welcome to the frontend repository of our Beba app project. This repository contains the codebase for the mobile app built using React Native.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ Welcome to the frontend repository of our transportation app project. This repos
 
 1. Clone this repository to your local machine:
    ```
-
+   git clone https://github.com/kennywam/BebaApp.git
    ```
 
 2. Navigate to the project directory:
