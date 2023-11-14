@@ -1,4 +1,4 @@
-# BebaApp Frontend
+# BebaApp Frontend(still at design phase)
 
 Welcome to the frontend repository of our Beba app project. This repository contains the codebase for the mobile app built using React Native.
 
