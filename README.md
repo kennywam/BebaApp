@@ -49,12 +49,5 @@ If you'd like to contribute to this project, please follow our [contribution gui
 
 This project is licensed under the [MIT License](LICENSE.md).
 
-## Acknowledgements
-
-- Special thanks to [Third-Party Library](https://github.com/third-party/library) for providing [feature/component].
-
----
-
-Feel free to reach out with any questions or feedback!
 
 
